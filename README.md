@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/namithak0302/ARRAYS/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/namithak0302/ARRAYS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/namithak0302/ARRAYS/tree/master/0704-binary-search) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/namithak0302/ARRAYS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namithak0302/ARRAYS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/namithak0302/ARRAYS/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/namithak0302/ARRAYS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/namithak0302/ARRAYS/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/namithak0302/ARRAYS/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
