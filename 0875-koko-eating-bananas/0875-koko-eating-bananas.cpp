@@ -7,6 +7,7 @@ public:
            high=max(high,piles[i]);
            }
            long long hours=0;
+           int ans;
         while(low<=high){
             int mid=(low+high)/2;
             long long hours=0;
@@ -14,11 +15,12 @@ public:
             hours+=ceil((double)piles[i]/mid);
         }
         if(hours<=h){
+            ans=mid;
             high=mid-1;
         }
         else{
             low=mid+1;
         }}
-        return low;
+        return ans;
     }
 };
