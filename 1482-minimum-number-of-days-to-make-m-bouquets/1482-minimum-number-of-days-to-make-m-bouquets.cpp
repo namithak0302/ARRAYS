@@ -19,10 +19,10 @@ bool isfit(vector<int>& bloomDay,int m,int k,int mid){
 }
     int minDays(vector<int>& bloomDay, int m, int k) {
        int n=bloomDay.size();
-    long long product=1L*m*k;
-    if(product>n){
-        return -1;
-    }
+    // long long product=1L*m*k;
+    // if(product>n){
+    //     return -1;
+    // }
     int ans=-1;
         int low=*min_element(bloomDay.begin(),bloomDay.end());
         int high=*max_element(bloomDay.begin(),bloomDay.end());
