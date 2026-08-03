@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/namithak0302/ARRAYS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/namithak0302/ARRAYS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/namithak0302/ARRAYS/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/namithak0302/ARRAYS/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/namithak0302/ARRAYS/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/namithak0302/ARRAYS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/namithak0302/ARRAYS/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/namithak0302/ARRAYS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/namithak0302/ARRAYS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/namithak0302/ARRAYS/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/namithak0302/ARRAYS/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/namithak0302/ARRAYS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/namithak0302/ARRAYS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/namithak0302/ARRAYS/tree/master/0875-koko-eating-bananas) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/namithak0302/ARRAYS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/namithak0302/ARRAYS/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/namithak0302/ARRAYS/tree/master/0410-split-array-largest-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -144,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/namithak0302/ARRAYS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/namithak0302/ARRAYS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/namithak0302/ARRAYS/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/namithak0302/ARRAYS/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/namithak0302/ARRAYS/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
