@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/namithak0302/ARRAYS/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/namithak0302/ARRAYS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/namithak0302/ARRAYS/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/namithak0302/ARRAYS/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/namithak0302/ARRAYS/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/namithak0302/ARRAYS/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/namithak0302/ARRAYS/tree/master/0485-max-consecutive-ones) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/namithak0302/ARRAYS/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/namithak0302/ARRAYS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/namithak0302/ARRAYS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/namithak0302/ARRAYS/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/namithak0302/ARRAYS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/namithak0302/ARRAYS/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/namithak0302/ARRAYS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/namithak0302/ARRAYS/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/namithak0302/ARRAYS/tree/master/0410-split-array-largest-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/namithak0302/ARRAYS/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
