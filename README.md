@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/namithak0302/ARRAYS/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namithak0302/ARRAYS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/namithak0302/ARRAYS/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/namithak0302/ARRAYS/tree/master/0189-rotate-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/namithak0302/ARRAYS/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/namithak0302/ARRAYS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/namithak0302/ARRAYS/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/namithak0302/ARRAYS/tree/master/0410-split-array-largest-sum) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/namithak0302/ARRAYS/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/namithak0302/ARRAYS/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/namithak0302/ARRAYS/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/namithak0302/ARRAYS/tree/master/1021-remove-outermost-parentheses) |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/namithak0302/ARRAYS/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/namithak0302/ARRAYS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
