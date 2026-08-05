@@ -4,7 +4,7 @@ public:
         stringstream st(s);
         string word;
         vector<string> words;
-        while(st>>word){
+         while(st>>word){
             words.push_back(word);
         }
         int n=words.size();
